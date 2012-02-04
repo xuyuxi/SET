@@ -1,0 +1,10 @@
+* Consider adding jpeg based response triggers 
+* Add better reporting around credential harvester
+	- Include how many didn't bite (check)
+	- Include how many did bite (check)
+	- Add some pretty graphs or something 
+
+* Add calendar invites to spear phishing
+* Add the ability to import your own signed java applet certificates (check)
+* Add dump sam/cache database to SET interactive shell
+* Add the ability to use set-proxy in the web gui
